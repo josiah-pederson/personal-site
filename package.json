@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/josiah-pederson/personal-site.git"
+    "url": "http://github.com/josiah-pederson/personal-site.git"
   },
   "engines": {
     "node": ">=14.x"
