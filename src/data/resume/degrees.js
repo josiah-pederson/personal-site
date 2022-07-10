@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Hack Reactor',
+    degree: 'Advanced Software Engineering Certificate',
+    link: 'https://www.hackreactor.com/learn-python-learn-javascript',
+    year: 2022,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Wheaton College',
+    degree: 'B.A. Media Communications',
+    link: 'https://wheaton.edu',
+    year: 2017,
   },
 ];
 
