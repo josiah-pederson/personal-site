@@ -4,85 +4,72 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  // {
-  //   title: 'Node.JS',
-  //   competency: 3,
-  //   category: ['Web Development', 'Javascript'],
-  // },
-  {
-    title: 'React',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Bootstrap',
-    competency: 4,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Bash',
-    competency: 2,
-    category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'Docker',
-    competency: 3,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 3,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'RabbitMQ',
-    competency: 3,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Insomnia',
-    competency: 4,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'MongoDB',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'PostgreSQL/SQLite3/SQL',
-    competency: 4,
-    category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Git',
-    competency: 3,
-    category: ['Tools'],
-  },
-  {
-    title: 'HTML + CSS',
-    competency: 3,
-    category: ['Web Development', 'Languages'],
   },
   {
     title: 'Python',
-    competency: 5,
-    category: ['Languages', 'Python'],
   },
   {
-    title: 'FastAPI',
-    competency: 3,
-    category: ['Web Development', 'Framework'],
+    title: 'PostgreSQL/SQLite3/SQL',
+  },
+  {
+    title: 'React',
+  },
+  {
+    title: 'Redux',
+  },
+  {
+    title: 'HTML + CSS',
   },
   {
     title: 'Django',
-    competency: 4,
-    category: ['Web Development', 'Framework'],
   },
-].map((skill) => ({ ...skill, category: skill.category.sort() }));
+  {
+    title: 'Bootstrap',
+  },
+  {
+    title: 'Docker',
+  },
+  {
+    title: 'Heroku',
+  },
+  {
+    title: 'RabbitMQ',
+  },
+  {
+    title: 'Insomnia',
+  },
+  {
+    title: 'WebSockets',
+  },
+  {
+    title: 'Microservices',
+  },
+  {
+    title: 'Monoliths',
+  },
+  {
+    title: 'MongoDB',
+  },
+  {
+    title: 'Domain-driven-design',
+  },
+  {
+    title: 'Git',
+  },
+  {
+    title: 'REST APIs',
+  },
+  {
+    title: 'Apache Kafka',
+  },
+  {
+    title: 'FastAPI',
+  },
+  {
+    title: 'Bash',
+  },
+
+].map((skill) => ({ ...skill, category: skill }));
 
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until you find a pattern you like.

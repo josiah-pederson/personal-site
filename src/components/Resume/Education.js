@@ -24,6 +24,7 @@ Education.propTypes = {
     degree: PropTypes.string,
     link: PropTypes.string,
     year: PropTypes.number,
+    relevantCoursework: PropTypes.string,
   })),
 };
 

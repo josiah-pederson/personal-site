@@ -13,12 +13,12 @@ import References from '../components/Resume/References';
 import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
 import { skills } from '../data/resume/skills';
+import pdf from '../data/resume/JosiahPedersonResume.pdf';
 
 const sections = [
   'Education',
   'Experience',
   'Skills',
-  'Courses',
   'References',
 ];
 
@@ -31,6 +31,9 @@ const Resume = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
+          <p className="container">
+            TL;DR? <a href={pdf} download>Download my resume</a>
+          </p>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>

@@ -5,21 +5,12 @@ import PropTypes from 'prop-types';
 const validateText = (text) => {
   // NOTE: Passes RFC 5322 but not tested on google's standard.
   // eslint-disable-next-line no-useless-escape
-  const re = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))$/;
+  const re = /^(([^<>()\[\]\.,;:\s\"]+(\.[^<>()\[\]\,;:\s@\"]+)*)|(\".+\"))$/;
   return re.test(text) || text.length === 0;
 };
 
 const messages = [
-  'hello',
-  'guten-tag',
-  'you-can-email-me-at-literally-anything! Really',
-  'well, not anything. But most things',
-  'like-this',
-  'or-this',
-  'but not this :(  ',
-  'you.can.also.email.me.with.specific.topics.like',
-  'just-saying-hi',
-  'josiahcpederson',
+  'josiahcpederson@gmail.com',
 ];
 
 const useInterval = (callback, delay) => {
@@ -79,7 +70,7 @@ const EmailLink = ({ loopMessage }) => {
     >
       <a href={validateText(message) ? 'mailto:josiahcpederson@gmail.com' : ''}>
         <span>{message}</span>
-        <span>@gmail.com</span>
+        {/* <span>@gmail.com</span> */}
       </a>
     </div>
   );
