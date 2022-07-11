@@ -10,9 +10,8 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'hi',
   'hello',
-  'hola',
+  'guten-tag',
   'you-can-email-me-at-literally-anything! Really',
   'well, not anything. But most things',
   'like-this',
@@ -80,7 +79,7 @@ const EmailLink = ({ loopMessage }) => {
     >
       <a href={validateText(message) ? 'mailto:josiahcpederson@gmail.com' : ''}>
         <span>{message}</span>
-        <span>@mldangelo.com</span>
+        <span>@gmail.com</span>
       </a>
     </div>
   );

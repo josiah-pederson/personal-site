@@ -22,7 +22,7 @@ const Courses = ({ data }) => (
   <div className="courses">
     <div className="link-to" id="courses" />
     <div className="title">
-      <h3>Relevant Coursework</h3>
+      <h3>Skills</h3>
     </div>
     <ul className="course-list">
       {getRows(data)}
@@ -33,9 +33,6 @@ const Courses = ({ data }) => (
 Courses.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string,
-    number: PropTypes.string,
-    link: PropTypes.string,
-    university: PropTypes.string,
   })),
 };
 
