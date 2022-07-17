@@ -1,26 +1,21 @@
 
-# Intro
+# A bit about me
 
-Two things I love: solving problems and learning (preferably alongside others). Every day, I do both as a full-time full-stack web development student in the 19-week Hack Reactor Software Engineering Immersive. (This next sentence will fail the one-breath sentence test.) I have already gotten to work on five full-stack microservice-based applications incorporating skills and technologies including JavaScript, Django, React, Redux, Docker, SQL, PostgreSQL, MongoDB, DDD, RESTful APIs, RabbitMQ, HTML, CSS, Heroku, Microservices, Monoliths, and, of course (my favorite) Python and I don't graduate until mid-August!
+Two things I love: solving problems and actively learning (preferably alongside others). Every day, I do both as a full-time full-stack web development student in the 19-week Hack Reactor Software Engineering Immersive. (This next sentence will fail the one-breath sentence test. In the interest of keeping readers awake, I advise skipping to paragraph two if you're not a Software Engineer or Recruiter.) I have already gotten to work on five full-stack microservice-based applications incorporating skills and technologies including JavaScript, Django, React, Redux, Docker, SQL, PostgreSQL, MongoDB, DDD, RESTful APIs, CI/CD, RabbitMQ, HTML, CSS, Heroku, Microservices, Monoliths, and, of course (my favorite) Python and I don't graduate until mid-August!
 
-# My winding history
+Before getting into software engineering, I built my interpersonal communication and problem-solving skills as a Technical Expert at an Apple store Genius Bar for over two-and-a-half years. During the same time, I worked for a nonprofit in which regular trips to China were part of the role. I learned to be comfortable being uncomfortable while learning a language immersed in a very different culture than my own. With my interest in the tech industry growing, I enrolled in the Hack Reactor program and have had great success in that thus far with a 99.75% average project and exam score.
 
-- Christopher Nolan, Steven Spielberg, Alfred Hitchcock were amongst some of my high school heroes. I wanted to be a film director. 
-- I studied Media Communication in college and learned that the film industry was not what I wanted to get involved in. Being a film enthusiast was enough for me. (oh, and by studied, I mean did literally anything except study...)
-- Post-college: I dabbled in freelance videography while looking for a vocation more to my tastes. An acquaintance and I started a media production business but that was a couple months before COVID (IDK if you've heard of it, it was a big deal)
-- I worked at an Apple Store as a repair technician for a couple years. That was fun for the first few months, but retail and I were never meant to end up together.
-- At that same time, I started work at a non-profit involving education in China. An amazing experience, but also not a long term fit for me.
-- I'd been told by several friends and family members that I am a bit of a nerd and should at least look into Computer Science. I did look into it. One thing led to another and here I am and I couldn't be happier.
+These experiences and more have aided me in building a strong foundation for professional development in the web development industry. They have helped me better recognize my love of learning and problem-solving. These experiences have shown me that I can work hard and want to do that alongside an engineering team to build websites that give visitors a seamless and memorable experience.
 
 # I like
 
 - Fitness
-- Mountains
 - Brutal Winters
 - Linguistic studies (Mandarin, German)
+- Mountains > Beaches but I am not opposed to having both
 - 20th century history (WWI, WWII, Cold War)
 - Composing orchestral music
-- Listening to Opera Wagner: Der Ring des Nibelungen
+- Listening to Opera: Der Ring des Nibelungen is one of my favorites
 - International travel!
 
 # Travel / Geography
@@ -33,4 +28,3 @@ Two things I love: solving problems and learning (preferably alongside others). 
 - At the end of 2021, I took a trip to [Egypt] (https://youtu.be/jw5NMPWivjc) which was unforgettable.
 - In the fall, I will return to Vietnam and Thailand to visit a school I helped start several years ago.
 - Next summer, I plan to go to Italy and Austria for an operatic tour.
-
