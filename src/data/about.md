@@ -1,7 +1,7 @@
 
 # A bit about me
 
-Two things I love: solving problems and actively learning (preferably alongside others). Every day, I do both as a Software Engineer, Immersive Resident for the Galvanize, Inc. 19-week Hack Reactor Software Engineering Immersive. After completing the program, I am mentoring new students and helping them develop an understanding of concepts ranging from Django, React, and SQL to data structures and algorithms. In my time in the program and beyond, I have already gotten to work on five full-stack microservice-based applications incorporating skills and technologies including JavaScript, Django, React, Redux, Docker, SQL, PostgreSQL, MongoDB, DDD, RESTful APIs, CI/CD, RabbitMQ, HTML, CSS, Heroku, Microservices, Monoliths, and, of course (my favorite), Python!
+Two things I love: solving problems and actively learning (preferably alongside others). Every day, I do both as a Software Engineer, Immersive Resident for the Galvanize, Inc. 19-week Hack Reactor Software Engineering Immersive. Having graduated from the program in August of 2022, I am mentoring new students and helping them develop an understanding of concepts ranging from Django, React, and SQL to data structures and algorithms. In my time in the program and beyond, I have already gotten to work on five full-stack microservice-based applications incorporating skills and technologies including JavaScript, Django, React, Redux, Docker, SQL, PostgreSQL, MongoDB, DDD, RESTful APIs, CI/CD, RabbitMQ, HTML, CSS, Heroku, Microservices, Monoliths, and, of course (my favorite), Python!
 
 Before getting into software engineering, I built my interpersonal communication and problem-solving skills as a Technical Expert at an Apple store Genius Bar for over two-and-a-half years. During the same time, I worked for a nonprofit in which regular trips to China were part of the role. I learned to be comfortable being uncomfortable while learning a language immersed in a very different culture than my own. With my interest in the tech industry growing, I enrolled in the Hack Reactor program and have had great success in that thus far with a 99.75% average project and exam score.
 
@@ -25,6 +25,6 @@ These experiences and more have aided me in building a strong foundation for pro
 - In the summer of 2014, I spent the summer as a video production intern in Poland. That was pretty neat. I was also given the opportunity to backpack and camp in the Swiss and French Alps, visit Berlin, and spend some time in London.
 - The next summer, I spent the time learning Chinese in Tianjin. Great time.
 - From November - December of 2019, I got to revisit a variety of cities in China. Interestingly, the last one was Wuhan mere weeks before the lockdowns began.
-- At the end of 2021, I took an unforgettable trip to [Egypt] (https://youtu.be/jw5NMPWivjc).
+- At the end of 2021, I took an unforgettable trip to [Egypt](https://youtu.be/jw5NMPWivjc).
 - In the fall, I will return to Vietnam and Thailand to visit a K-12 school I helped start several years ago.
 - Next summer, I plan to go to Italy and Austria for an operatic tour.
