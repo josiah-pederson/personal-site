@@ -3,34 +3,31 @@
 
 const skills = [
   {
-    title: 'Javascript',
-  },
-  {
     title: 'Python',
   },
   {
-    title: 'PostgreSQL/SQLite3/SQL',
+    title: 'Javascript',
+  },
+  {
+    title: 'Postgres/SQL',
   },
   {
     title: 'React',
   },
   {
-    title: 'Redux',
-  },
-  {
-    title: 'HTML + CSS',
-  },
-  {
     title: 'Django',
-  },
-  {
-    title: 'Bootstrap',
   },
   {
     title: 'Docker',
   },
   {
     title: 'Heroku',
+  },
+  {
+    title: 'HTML + CSS',
+  },
+  {
+    title: 'Bootstrap',
   },
   {
     title: 'RabbitMQ',
@@ -48,6 +45,9 @@ const skills = [
     title: 'Monoliths',
   },
   {
+    title: 'FastAPI',
+  },
+  {
     title: 'MongoDB',
   },
   {
@@ -58,12 +58,6 @@ const skills = [
   },
   {
     title: 'REST APIs',
-  },
-  {
-    title: 'Apache Kafka',
-  },
-  {
-    title: 'FastAPI',
   },
   {
     title: 'Bash',

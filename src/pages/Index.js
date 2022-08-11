@@ -19,12 +19,12 @@ const Index = () => (
       </header>
       <p> Welcome to my website.
         You can check out my {' '}
+        <Link to="/about">about page</Link>, {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        <Link to="/contact">contact</Link> me
+        or checkout this <a href="https://github.com/josiah-pederson/personal-site">Github repo</a>.
       </p>
-      <p> Source available <a href="https://github.com/josiah-pederson/personal-site">here</a>.</p>
     </article>
   </Main>
 );

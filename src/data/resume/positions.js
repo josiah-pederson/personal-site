@@ -1,13 +1,24 @@
 const positions = [
   {
+    company: 'Galvanize, Inc.',
+    position: 'Software Engineer, Immersive Resident',
+    link: 'https://www.galvanize.com/',
+    daterange: 'July 2022 - Present',
+    points: [
+      'Mentor team of 50 diverse software engineers to encourage coding best practices, Agile methodologies, and a growth mindset',
+      'Claim Help Desk tickets to assist students with technical questions and debugging on subjects ranging from Python data structures to Heroku deployment',
+      'Act as a point of contact to assist students over an 800+ hour immersive program',
+    ],
+  },
+  {
     company: 'Apple, Inc.',
     position: 'Technical Expert',
     link: 'https://apple.com',
     daterange: 'October 2019 - March 2022',
     points: [
-      'Led team with 100% iPhone repair success rate for 6 months by attention to detail, exceeding 93% expectation',
-      'Mentored 15 junior technicians by shadowing and providing feedback, leading to excellent customer service',
-      'Maintained 95% customer satisfaction score for 10 months by accurately troubleshooting 1000+ iOS devices ',
+      'Led team with 100% iPhone repair success rate for six months via attention to detail, exceeding 93% expectation',
+      'Trained 15 junior technicians by shadowing and providing feedback, leading to a 10% session-per-hour increase',
+      'Maintained 95% customer satisfaction score for 10 months by accurately troubleshooting 1000+ iOS devices',
     ],
   },
   {
@@ -16,8 +27,8 @@ const positions = [
     daterange: 'September 2019 - April 2022',
     points: [
       'Visited 15 schools in southeast Asia annually to establish student acquisition partnerships with US universities',
-      'Directed and edited 4 annual marketing videos distributed on Chinese social media reaching 1,800 views',
-      'Managed $70,000 fund, composed and filed tax documents, and kept quarterly meeting minutes',
+      'Directed and edited four annual marketing videos distributed on Chinese social media reaching 1,800 views',
+      'Managed $70,000 account using QuickBooks, ensuring a streamlined tax filing process each year',
     ],
   },
   {
@@ -25,8 +36,8 @@ const positions = [
     position: 'Co-Founder',
     daterange: 'November 2019 - August 2020',
     points: [
-      'Negotiated 5 marketing contracts with non-profits, municipalities, and for-profit businesses',
-      'Supervised branding development, and website design ensuring consistent messaging to potential clients',
+      'Negotiated five marketing contracts with nonprofits, municipalities, and for-profit businesses, generating $40,000 in revenue',
+      'Supervised branding development and website design, ensuring consistent messaging to potential clients',
     ],
   },
   {

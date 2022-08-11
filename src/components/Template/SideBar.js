@@ -18,12 +18,14 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Josiah. I like solving problems.
-        As a student in
-        the <a href="https://www.hackreactor.com/learn-python-learn-javascript">Hack Reactor</a> 19
-        week software enginnering immersive program, I get to solve lots of problems every day!
-        Previously, I worked
-        at <a href="https://www.apple.com">Apple</a> and graduated with a liberal arts degree
-        from <a href="https://www.wheaton.edu">Wheaton College</a>.
+        As a Software Engineer, Immersive Resident
+        for <a href="https://www.galvanize.com/">Galvanize, Inc.</a> and graduate of
+        <a href="https://www.hackreactor.com/learn-python-learn-javascript"> Hack Reactor&apos;s </a>
+        new 19 week Software Enginnering Immersive program, I get to mentor students and solve many
+        problems every day! Previously, I
+        worked at <a href="https://www.apple.com">Apple</a> and graduated
+        from <a href="https://www.wheaton.edu">Wheaton College</a> with
+        a liberal arts degree.
       </p>
       <ul className="actions">
         <li>
