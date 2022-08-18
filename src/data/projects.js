@@ -39,6 +39,19 @@ const data = [
       + 'Customers can browse inventory and schedule service for their car.'
       + 'Tech stack: JavaScript, Python, React, Django, PostgreSQL and Docker.',
   },
+  {
+    title: 'Filmkritiken',
+    subtitle: 'Monolithic film reviews site',
+    link: 'https://gitlab.com/josiahpederson/jinspins-filmkritiken',
+    image: '/images/projects/carcar-homepage.png',
+    date: '2022-07-17',
+    desc:
+      'Built to help a car dealership handle all sales and service needs. '
+      + 'CarCar allows staff to list autos for sale, view sale stats per  '
+      + 'employee, look up the service history of a vehicle and much more. '
+      + 'Customers can browse inventory and schedule service for their car.'
+      + 'Tech stack: JavaScript, Python, React, Django, PostgreSQL and Docker.',
+  },
 ];
 
 export default data;
