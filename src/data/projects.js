@@ -43,14 +43,13 @@ const data = [
     title: 'Filmkritiken',
     subtitle: 'Monolithic film reviews site',
     link: 'https://gitlab.com/josiahpederson/jinspins-filmkritiken',
-    image: '/images/projects/carcar-homepage.png',
-    date: '2022-07-17',
+    image: '/images/projects/filmkritiken-homepage.png',
+    date: '2022-05-17',
     desc:
-      'Built to help a car dealership handle all sales and service needs. '
-      + 'CarCar allows staff to list autos for sale, view sale stats per  '
-      + 'employee, look up the service history of a vehicle and much more. '
-      + 'Customers can browse inventory and schedule service for their car.'
-      + 'Tech stack: JavaScript, Python, React, Django, PostgreSQL and Docker.',
+      'Filme Kritiken | A monolithic film site where visitors can watch '
+      + 'trailers, read reviews, and learn more about films they are '
+      + 'interested in. authenticated users can write reviews and save '
+      + 'movies to their watchlists.',
   },
 ];
 
