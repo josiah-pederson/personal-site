@@ -31,7 +31,7 @@ Photos from my travels [here](https://photos.app.goo.gl/Q1XL2w69a4iJ41SR8)!
 - In the summer of 2014, I was a video production intern in Krakow, Poland. Visiting Auschwitz was a sobering experience. I was also given the opportunity to backpack and camp in the Swiss and French Alps, visit Berlin, and explore London.
 - The next summer, I spent the time learning Chinese in Tianjin. Great time.
 - From November - December of 2019, I got to revisit a variety of cities in China. Interestingly, the last one was Wuhan mere days before the lockdowns began.
-- A month living on the north side of Kauai in 2021 convinced me that it is one of the most breathtaking places on earth.
+- A month living on the north side of Kauai in 2021 convinced me that [Hawaii](https://www.youtube.com/watch?v=YsfReUXgoZY) is one of the most breathtaking places on earth.
 - At the end of 2021, I took an unforgettable trip to [Egypt](https://youtu.be/jw5NMPWivjc).
 - In the fall, I will return to Vietnam and Thailand to visit a K-12 school I helped start several years ago.
 - Next summer, I plan to go to Italy and Austria for an operatic tour.

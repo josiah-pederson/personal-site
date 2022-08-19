@@ -29,7 +29,8 @@ const data = [
   {
     title: 'CarCar',
     subtitle: 'Auto Dealership management site',
-    link: 'https://car-car.gitlab.io/car-car/',
+    // link: 'https://car-car.gitlab.io/car-car/',
+    link: 'https://gitlab.com/car-car/car-car/',
     image: '/images/projects/carcar-homepage.png',
     date: '2022-07-17',
     desc:
