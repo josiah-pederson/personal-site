@@ -28,17 +28,13 @@ const SideBar = () => (
         from <a href="https://www.wheaton.edu">Wheaton College</a> with
         a B.A. in Communication.
       </p>
-      {/* {
-        !window.location.pathname.endsWith('/')
-          ?
-          <ul className="actions">
-            <li>
-              <Link to="/about" className="button">About Me</Link>
-            </li>
-          </ul> : null
-      } */}
-      <p><ContactIcons /></p>
+      {
+        window.location.pathname.endsWith('/')
+          ? null
+          : <ul className="actions"><li><Link to="/about" className="button">About Me</Link></li></ul>
+      }
     </section>
+    <p><ContactIcons /></p>
   </section>
 );
 
