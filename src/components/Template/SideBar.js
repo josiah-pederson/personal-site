@@ -34,7 +34,10 @@ const SideBar = () => (
           : <ul className="actions"><li><Link to="/about" className="button">About Me</Link></li></ul>
       }
     </section>
-    <p><ContactIcons /></p>
+    <section id="footer">
+      <ContactIcons />
+      <p className="copyright">&copy; Josiah Pederson.</p>
+    </section>
   </section>
 );
 

@@ -1,4 +1,4 @@
-import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
+// import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faGitlab } from '@fortawesome/free-brands-svg-icons/faGitlab';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
@@ -10,11 +10,11 @@ const data = [
     label: 'Gitlab',
     icon: faGitlab,
   },
-  {
-    link: 'https://github.com/josiah-pederson',
-    label: 'Github',
-    icon: faGithub,
-  },
+  // {
+  //   link: 'https://github.com/josiah-pederson',
+  //   label: 'Github',
+  //   icon: faGithub,
+  // },
   {
     link: 'https://www.linkedin.com/in/josiah-pederson',
     label: 'LinkedIn',
