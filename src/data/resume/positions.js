@@ -6,8 +6,8 @@ const positions = [
     daterange: 'July 2022 - Present',
     points: [
       'Mentor 60 diverse engineers to encourage coding best practices, agile methodologies, and a growth mindset',
-      'Write, test, and push patches for the student and staff self-service Django website',
-      'Claim Help Desk tickets to assist students with technical questions and debugging on subjects ranging from Python data structures to continuous deployment',
+      'Develop and maintain the curriculum website used by students and staff',
+      'Help students create projects incorporating Django, React, Docker, PostgreSQL, external APIs and CI/CD',
     ],
   },
   {
@@ -27,8 +27,6 @@ const positions = [
     daterange: 'September 2019 - April 2022',
     points: [
       'Visited 15 schools in southeast Asia annually to establish student acquisition partnerships with US universities',
-      'Directed and edited four annual marketing videos distributed on Chinese social media reaching 1,800 views',
-      'Managed $70,000 account using QuickBooks, ensuring a streamlined tax filing process each year',
     ],
   },
   {
@@ -36,8 +34,8 @@ const positions = [
     position: 'Co-Founder',
     daterange: 'November 2019 - August 2020',
     points: [
-      'Negotiated five marketing contracts with nonprofits, municipalities, and for-profit businesses, generating $40,000 in revenue',
-      'Supervised branding development and website design, ensuring consistent messaging to potential clients',
+      'Managed website design and company branding, ensuring consistent messaging to potential clients',
+      'Negotiated five marketing contracts with nonprofits and municipalities generating $40,000 in revenue',
     ],
   },
   {
@@ -45,38 +43,8 @@ const positions = [
     position: 'Freelance Video Producer',
     daterange: 'May 2017 - March 2020',
     points: [
-      'Produced two 30-second commercials that aired on four television channels all across Michigan',
-      'Partnered with 25 business owners and universities to conceptualize attractive promo material',
+      'Partnered with 25 business owners and universities to create promo material',
       'Produced over 75 promo videos for Charlevoix Venetian Festival attended by 200,000 guests',
-    ],
-  },
-  {
-    company: 'Social Economic Enterprises, LLC.',
-    position: 'Video Production Intern',
-    daterange: 'June 2018 - August 2018',
-    points: [
-      'Filmed and edited 40 promotional videos for non-profits, businesses, and city events',
-      'Captured the story of the 88th Charlevoix Venetian Festival attended by 200,000 guests',
-    ],
-  },
-  {
-    company: 'WA Global Network',
-    position: 'Residence Assistant/Teaching Assistant',
-    link: 'https://waglobalnetwork.org',
-    daterange: 'Summers 2015 - 2017',
-    points: [
-      'Supervised and educated 200 students from over 20 countries in both the classroom, the residence setting, and on various excursions around Los Angeles, San Diego, and San Francisco',
-    ],
-  },
-  {
-    company: 'European Leadership Forum',
-    position: 'Media Intern',
-    link: 'http://planetaryresources.com',
-    daterange: 'January 2014 - May 2014',
-    points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
     ],
   },
 ];
