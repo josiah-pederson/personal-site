@@ -11,14 +11,14 @@ These experiences have reinforced my passion for learning and built a strong pla
 
 # I like
 
-- Strength training
-- Frigid Chicago winters
+- Fitness
 - Composing orchestral music
+- Frigid Chicago winters
 - Video games
 - 20th century history (WWI, WWII, Cold War)
 - Mountains > beaches but I am not opposed to having both
 - Logic puzzles
-- Linguistic studies (Mandarin, German)
+- Linguistic studies (Mandarin Chinese, German)
 - Listening to Opera: [Der Ring des Nibelungen](https://music.apple.com/us/album/wagner-der-ring-des-nibelungen/1440775500) sind meine Lieblingsopern
 - International travel!
 

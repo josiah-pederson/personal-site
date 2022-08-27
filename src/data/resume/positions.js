@@ -5,9 +5,9 @@ const positions = [
     link: 'https://www.galvanize.com/',
     daterange: 'July 2022 - Present',
     points: [
-      'Mentor team of 70 diverse software engineers to encourage coding best practices, agile methodologies, and a growth mindset',
-      'Claim Help Desk tickets to assist students with technical questions and debugging on subjects ranging from Python data structures to Heroku deployment',
-      'Act as a point of contact to assist students over an 800+ hour immersive program',
+      'Mentor 60 diverse engineers to encourage coding best practices, agile methodologies, and a growth mindset',
+      'Write, test, and push patches for the student and staff self-service Django website',
+      'Claim Help Desk tickets to assist students with technical questions and debugging on subjects ranging from Python data structures to continuous deployment',
     ],
   },
   {

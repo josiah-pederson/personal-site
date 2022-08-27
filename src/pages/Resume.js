@@ -12,13 +12,16 @@ import References from '../components/Resume/References';
 // import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
+import projects from '../data/resume/projects';
+import Proj from '../components/Resume/Projects';
 import { skills } from '../data/resume/skills';
 import pdf from '../data/resume/JosiahPedersonResume.pdf';
 
 const sections = [
-  'Education',
   'Experience',
+  'Projects',
   'Skills',
+  'Education',
   'References',
 ];
 
@@ -44,8 +47,9 @@ const Resume = () => (
         </div>
       </header>
       <Courses data={skills} />
-      <Education data={degrees} />
+      <Proj data={projects} />
       <Experience data={positions} />
+      <Education data={degrees} />
       {/* <Skills skills={skills} categories={categories} /> */}
       <References />
 
