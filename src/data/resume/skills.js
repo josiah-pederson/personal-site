@@ -27,6 +27,9 @@ const skills = [
     title: 'HTML + CSS',
   },
   {
+    title: 'CI/CD',
+  },
+  {
     title: 'Bootstrap',
   },
   {

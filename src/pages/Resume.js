@@ -17,13 +17,13 @@ import Proj from '../components/Resume/Projects';
 import { skills } from '../data/resume/skills';
 import pdf from '../data/resume/JosiahPedersonResume.pdf';
 
-const sections = [
-  'Experience',
-  'Projects',
-  'Skills',
-  'Education',
-  'References',
-];
+// const sections = [
+//   'Skills',
+//   'Projects',
+//   'Experience',
+//   'Education',
+//   'References',
+// ];
 
 const Resume = () => (
   <Main
@@ -37,12 +37,12 @@ const Resume = () => (
           <p className="container">
             TL;DR? <a href={pdf} download>Download my resume</a>
           </p>
-          <div className="link-container">
+          {/* <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
-          </div>
+          </div> */}
 
         </div>
       </header>
